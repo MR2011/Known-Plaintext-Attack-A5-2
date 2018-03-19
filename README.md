@@ -30,6 +30,8 @@ The attack performance was tested on a regular desktop PC with an Intel Core i7-
 If the correct value of R4 is given, retrieving the session key is pretty quick and usually needs just a few seconds. 
 Finding the correct value of R_4 is the expensive part of the attack. 
 In the worst case, i.e., if the value of R4=2^17 the attacks needs around 3 hours, tested with 8 parallel processes. 
+
 ##Links
+
 [1] Instant Ciphertext-Only Cryptanalysis of GSM Encrypted Communication 
 http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2003/CS/CS-2003-05.pdf
