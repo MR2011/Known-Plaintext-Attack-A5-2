@@ -1,6 +1,6 @@
 # Known Plaintext Attack against A5/2
 This project is the result of the course Cryptography Project at HTWSaar.
-The attack was published by Goldberg, Wagner and Green in 1999 and are
+The attack was published by Goldberg, Wagner and Green in 1999 and is
 explained by Barkan, Biham and Keller in [1].
 
 ## Installation
