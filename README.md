@@ -9,6 +9,7 @@ execute the following command:
 ```
 	pip install -r requirements.txt
 ```
+Python 3.5.3 was used during the development.
 ## Run
 The main program can be executed with:
 ```
