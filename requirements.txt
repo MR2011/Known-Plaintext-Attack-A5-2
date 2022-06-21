@@ -1,2 +1,2 @@
 BitVector==3.4.8
-numpy==1.14.0
+numpy==1.22.0
